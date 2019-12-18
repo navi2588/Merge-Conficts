@@ -1,2 +1,2 @@
 var num =50
-var str = "Hello karthik"
+var str = "Hello Navi"
